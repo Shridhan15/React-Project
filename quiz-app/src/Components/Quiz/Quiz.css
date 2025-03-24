@@ -49,3 +49,12 @@
     margin:  auto;
     font-size: 18px;
 }
+
+.container  .correct{
+    background-color: #dffff2;
+    border-color: #00d397;
+}
+.container .wrong{
+    background-color: #ffebed;
+    border-color: #ff4a4a;
+}
