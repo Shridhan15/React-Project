@@ -10,7 +10,8 @@ import program_icon3 from '../../assets/program-icon-3.png'
 
 const Programs = () => {
   return (
-    <div className='programs'>
+    // link will work with id or a unique class name 
+    <div className='programs' id='program'>
         <div className="program">
             <img src={program1} alt="" />
             <div className="caption">
